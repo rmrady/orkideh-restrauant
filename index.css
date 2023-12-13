@@ -1,0 +1,7 @@
+.parent-li{
+    transition: all 800ms ease 0s;
+}
+
+.box-section2 p, img , h4{
+    transition: all 800ms ease 0s;
+}
